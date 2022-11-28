@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kapcioszek :3 
-- 👀 I’m interested in computers, programming and generally IT stuff.
+- 👀 I’m interested in computers, programming and generally IT stuff. I also make music.
 - 📫 How to reach me: Kapcioszek@onet.pl
 
 <!---
