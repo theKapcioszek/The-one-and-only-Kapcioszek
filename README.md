@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kapcioszek :3 
 - 👀 I’m interested in computers, programming and generally IT stuff. I also make music.
-- 📫 How to reach me: Kapcioszek@onet.pl
+- 📫 How to reach me: kapcioszek2137@gmail.com
 
 <!---
 The-one-and-only-Kapcioszek/The-one-and-only-Kapcioszek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
